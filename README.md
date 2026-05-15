@@ -63,8 +63,6 @@ I am a **"translator"** between complex code and business value. With **11+ year
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexeiKornienko)
 
 ---
-*“Goal: Building AI systems that drive business growth.”*
-
-<br>
+*Goal: Building AI systems that drive business growth.*
 
 > **Nothingtham:** *Building automated solutions from the shadows, delivering clear value to the light.*
