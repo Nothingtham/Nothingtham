@@ -35,6 +35,12 @@ I bridge the gap between **high-level business strategy (ROI, EBITDA)** and **mo
 | **Business** | **EBITDA / ROI Analysis, GTM Strategy, Team Lead (50+), Enterprise Sales** |
 
 ---
+## 📈 Experience Highlights
+*   **Enterprise Expertise:** Successfully integrated IT solutions for global brands like **L'Oreal and Armani**.
+*   **Scalability:** Proven track record in managing large technical teams and complex sales cycles.
+*   **Efficiency:** Building AI agents that solve real-world operational pains.
+*   
+---
 
 ## 📈 Value Proposition
 * **Hybrid Expertise:** I speak "Code" with developers and "Money" with stakeholders.
@@ -60,6 +66,13 @@ I bridge the gap between **high-level business strategy (ROI, EBITDA)** and **mo
 ### [AI Meeting Secretary](https://github.com/Nothingtham/AI-Business-Automations/tree/main/ai-meeting-secretary)
 *Интеллектуальный ИИ-секретарь для бизнеса.*
 * **Стек:** Python, Гибридная архитектура ИИ (Whisper V3 + Llama 3.3 + **Gemini Latest**).
+
+---
+
+## 📈 Ключевые достижения
+*   **Enterprise опыт:** Успешно внедрял IT-решения для таких брендов, как **L'Oreal и Armani**.
+*   **Масштабирование:** Опыт управления командами 50+ человек и проведения 15,000+ презентаций.
+*   **Продуктовый подход:** Создаю ИИ-агентов, решающих реальные боли бизнеса.
 
 ---
 
