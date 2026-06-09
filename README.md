@@ -48,10 +48,12 @@ I bridge the gap between **high-level business strategy (ROI, EBITDA)** and **mo
 *Автоматизированная воронка продаж с глубокой интеграцией данных.*
 * **Ценность:** Полный цикл захвата лида без участия человека с мгновенным уведомлением в Telegram.
 * **Стек:** **React 19**, **Tailwind CSS 4.0**, **Supabase**, **Edge Functions**.
+* **Рабочий процесс:** Разработано с использованием **Claude Code** для быстрого прототипирования и высококачественной рефакторизации.
 
 ### [AI Meeting Secretary (ИИ-Секретарь)](https://github.com/Nothingtham/AI-Business-Automations/tree/main/ai-meeting-secretary)
 *Интеллектуальный ИИ-секретарь для бизнеса.*
 * **Ценность:** Экономия 45 минут времени на каждый час совещания.
+* **Технологии:** Python (aiogram), гибридный ИИ (Groq Whisper V3 + Llama 3.3 + **Gemini Latest**).
 
 ---
 
