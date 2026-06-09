@@ -35,12 +35,6 @@ I bridge the gap between **high-level business strategy (ROI, EBITDA)** and **mo
 | **Business** | **EBITDA / ROI Analysis, GTM Strategy, Team Lead (50+), Enterprise Sales** |
 
 ---
-## 📈 Experience Highlights
-*   **Enterprise Expertise:** Successfully integrated IT solutions for global brands like **L'Oreal and Armani**.
-*   **Scalability:** Proven track record in managing large technical teams and complex sales cycles.
-*   **Efficiency:** Building AI agents that solve real-world operational pains.
-*   
----
 
 ## 📈 Value Proposition
 * **Hybrid Expertise:** I speak "Code" with developers and "Money" with stakeholders.
@@ -54,30 +48,46 @@ I bridge the gap between **high-level business strategy (ROI, EBITDA)** and **mo
 
 ### 🤖 AI Архитектор | Технический продакт-менеджер | Full-Stack разработчик
 
-Я сокращаю дистанцию между **бизнес-стратегией (ROI, EBITDA)** и **современным ИТ-стеком**. Мой опыт - это 11 лет руководства продажами в Enterprise и умение «собирать руками» сложные автоматизированные системы.
+Я сокращаю дистанцию между **бизнес-стратегией (ROI, EBITDA)** и **современным ИТ-стеком**. Мой опыт — это 11 лет руководства продажами в Enterprise и умение «собирать руками» сложные автоматизированные системы.
+
+---
 
 ## 🚀 Основные проекты
 
 ### [KornAI.ru — LeadGen Экосистема](https://kornai.ru)
 *Автоматизированная воронка продаж с глубокой интеграцией данных.*
+* **Ценность:** Полный цикл захвата лида без участия человека с мгновенным уведомлением в Telegram.
 * **Стек:** **React 19**, **Tailwind CSS 4.0**, **Supabase** (PostgreSQL), **Edge Functions**.
-* **Процесс:** Разработано с использованием **Claude Code** для ускорения цикла разработки.
+* **Процесс:** Разработано с использованием **Claude Code** для ускорения цикла разработки и качества кода.
 
-### [AI Meeting Secretary](https://github.com/Nothingtham/AI-Business-Automations/tree/main/ai-meeting-secretary)
+### [AI Meeting Secretary (ИИ-Секретарь)](https://github.com/Nothingtham/AI-Business-Automations/tree/main/ai-meeting-secretary)
 *Интеллектуальный ИИ-секретарь для бизнеса.*
+* **Ценность:** Экономия 45 минут времени на каждый час совещания.
 * **Стек:** Python, Гибридная архитектура ИИ (Whisper V3 + Llama 3.3 + **Gemini Latest**).
 
 ---
 
-## 📈 Ключевые достижения
-*   **Enterprise опыт:** Успешно внедрял IT-решения для таких брендов, как **L'Oreal и Armani**.
-*   **Масштабирование:** Опыт управления командами 50+ человек и проведения 15,000+ презентаций.
-*   **Продуктовый подход:** Создаю ИИ-агентов, решающих реальные боли бизнеса.
+## 🛠 Инструментарий
+
+| Категория | Технологии |
+| :--- | :--- |
+| **ИИ-разработка** | ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-525252?style=for-the-badge&logo=visual-studio-code&logoColor=61DAFB) ![Gemini](https://img.shields.io/badge/Gemini_Latest-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white) |
+| **Фронтенд** | ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Бэкенд и Облака** | ![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| **Языки** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Бизнес** | **Анализ EBITDA / ROI, GTM стратегия, Руководство командами (50+), Enterprise-продажи** |
 
 ---
 
-## 📫 Reach me at / Связь со мной:
+## 📈 Уникальная ценность
+* **Гибридная экспертиза:** Говорю на языке кода с разработчиками и на языке денег с собственниками.
+* **Процессы нового поколения:** Использую **Claude Code** и агентные инструменты для сборки рабочих PoC в рекордные сроки.
+* **Архитектура прежде всего:** Я не просто создаю интерфейсы, я проектирую масштабируемые облачные бэкенды с логикой реального времени.
+
+---
+
+## 📫 Связь со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexeiKornienko)
 
 ---
-*Goal: Building AI systems that drive measurable business growth.*
+*Цель: Создание ИИ-систем, которые драйвят измеримый рост бизнеса.*
