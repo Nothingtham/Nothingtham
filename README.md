@@ -6,7 +6,6 @@ _Engineering the Future of Business Profit_
 <br clear="left"/>
 
 ---
-
 <a href="#english-version">🇺🇸 English Version</a> | <a href="#russian-version">🇷🇺 Русская версия</a>
 
 <a name="english-version"></a>
