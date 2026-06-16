@@ -38,34 +38,27 @@ I bridge the gap between **high-level strategy (ROI, EBITDA)** and **modern AI s
 
 ---
 
----
+## 🛠 Технологический стек и экспертиза
 
-## 🛠 Technical Stack & Strategy
+### 🧠 Искусственный Интеллект и Логика
+![RAG](https://img.shields.io/badge/RAG-Systems-d1fe01?style=for-the-badge&logoColor=black)
+![Agentic Workflows](https://img.shields.io/badge/Agentic-Workflows-black?style=for-the-badge&logoColor=white)
+![Llama 3.3](https://img.shields.io/badge/Llama_3.3-blue?style=for-the-badge&logo=meta&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_1.5-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-f55036?style=for-the-badge)
 
-<table width="100%" border="0">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🧠 Intelligent Core</h3>
-      <b>Models:</b> Llama 3.3, Gemini, Groq, Whisper<br>
-      <b>Frameworks:</b> RAG, Agentic Workflows<br>
-      <b>AI Tools:</b> Claude Code, NotebookLM
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚛️ Modern Frontend</h3>
-      <b>Frameworks:</b> React 19, Tailwind 4.0<br>
-      <b>Languages:</b> TypeScript, Python, SQL<br>
-      <b>Experience:</b> Framer Motion, Spline
-    </td>
-    <td width="33%" valign="top">
-      <h3>☁️ Cloud & SEO</h3>
-      <b>Backend:</b> Supabase, Vercel<br>
-      <b>Security:</b> Cloudflare, Proxy<br>
-      <b>Growth:</b> Semantic HTML, JSON-LD
-    </td>
-  </tr>
-</table>
+### ⚛️ Full-Stack разработка
+![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind 4.0](https://img.shields.io/badge/Tailwind_4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
----
+### 📈 Стратегия и Рост (SEO & Business)
+![EBITDA Growth](https://img.shields.io/badge/EBITDA-Growth-white?style=for-the-badge&logoColor=black)
+![SEO Architecture](https://img.shields.io/badge/SEO-Architecture-black?style=for-the-badge&logoColor=d1fe01)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
