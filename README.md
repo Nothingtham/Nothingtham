@@ -1,13 +1,16 @@
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="60" valign="middle">
-      <img src="https://kornai.ru/logo.png" width="60" alt="KORNAI Logo">
-    </td>
-    <td valign="middle">
-      <h1>KORNAI | AI Solution Architect</h1>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td style="border: none;">
+        <img src="https://kornai.ru/logo.png" width="70" alt="KORNAI Logo" style="display: block;">
+      </td>
+      <td style="border: none; padding-left: 20px;">
+        <h1 style="border-bottom: none; margin-bottom: 0; padding-bottom: 0;">KORNAI | AI Solution Architect</h1>
+        <p style="color: #9ca3af; margin-top: 4px;">Engineering the Future of Business Profit</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="left">
   <a href="#english-version">🇺🇸 English Version</a> | <a href="#russian-version">🇷🇺 Русская версия</a>
