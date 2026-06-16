@@ -1,15 +1,19 @@
-<p align="left">
-  <img src="https://kornai.ru/logo.png" width="90" align="left" />
-  <b><font size="7">&nbsp;KORNAI</font><font size="6"> | AI Solution Architect</font></b>
-  <br>
-  &nbsp;&nbsp;&nbsp;<b><font size="4"><i>Engineering the Future of Business Profit</i></font></b>
-</p>
-
-<br>
-
-<p align="left">
-  <a href="#english-version">🇺🇸 English Version</a> | <a href="#russian-version">🇷🇺 Русская версия</a>
-</p>
+<div align="left">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="90" valign="top" style="border: none; padding-right: 20px;">
+        <img src="https://kornai.ru/logo.png" width="90" alt="KORNAI AI Solution Architect Logo">
+      </td>
+      <td valign="top" style="border: none;">
+        <h2 style="border-bottom: none; margin-bottom: 0; margin-top: 0; padding-bottom: 0;">KORNAI | AI Solution Architect</h2>
+        <p style="color: #9ca3af; margin-top: 4px; font-size: 16px;"><em>Engineering the Future of Business Profit</em></p>
+        <p style="margin-top: 12px;">
+          <a href="#english-version">🇺🇸 English Version</a> | <a href="#russian-version">🇷🇺 Русская версия</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
