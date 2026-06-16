@@ -1,9 +1,14 @@
-<img src="https://kornai.ru/logo.png" width="90" align="left" alt="KORNAI AI Solution Architect" style="margin-right: 20px;" />
-
-# KORNAI | AI Solution Architect
-_Engineering the Future of Business Profit_
-
-<br clear="left"/>
+<table>
+  <tr>
+    <td width="90" valign="top" style="border: none; padding-right: 20px;">
+      <img src="https://kornai.ru/logo.png" width="90" alt="KORNAI AI Solution Architect Logo">
+    </td>
+    <td valign="middle" style="border: none;">
+      <h2 style="border: none; margin: 0; padding: 0;">KORNAI | AI Solution Architect</h2>
+      <p style="color: #9ca3af; margin-top: 4px; font-size: 16px;"><em>Engineering the Future of Business Profit</em></p>
+    </td>
+  </tr>
+</table>
 
 ---
 <a href="#english-version">🇺🇸 English Version</a> | <a href="#russian-version">🇷🇺 Русская версия</a>
