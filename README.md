@@ -1,7 +1,7 @@
 <p align="left">
   <img src="https://kornai.ru/logo.png" width="90" valign="top" align="left" style="margin-right: 20px;" />
   <b><font size="6"><br>KORNAI</font></b><br>
-  <font size="4"><b>AI Solution Architect</b></font><br>
+  <font size="10"><b>AI Solution Architect</b></font><br>
 </p>
 <br clear="left"/>
 
