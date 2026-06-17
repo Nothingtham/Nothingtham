@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://kornai.ru/logo.png" width="80" valign="middle" align="left" style="margin-right: 20px;" />
+  <img src="https://kornai.ru/logo.png" width="50" valign="middle" align="left" style="margin-right: 20px;" />
   <b><font size="6">KORNAI | AI Solution Architect</font></b>
   <br>
   <font size="4" color="#9ca3af"><i>Engineering the Future of Business Profit</i></font>
