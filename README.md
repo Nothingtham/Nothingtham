@@ -1,9 +1,14 @@
-<div style="display: flex; align-items: center; border-bottom: none;">
-  <img src="https://kornai.ru/logo.png" width="70" alt="KORNAI AI Solution Architect Logo" style="margin-right: 20px;">
-  <h2 style="margin: 0; border-bottom: none; padding: 0;">KORNAI | AI Solution Architect</h2>
-</div>
+<table border="0" cellpadding="0" cellspacing="0" style="border: none !important; margin: 0; padding: 0;">
+  <tr style="border: none !important;">
+    <td width="70" valign="middle" style="border: none !important; padding-right: 20px;">
+      <img src="https://kornai.ru/logo.png" width="70" alt="KORNAI AI Solution Architect Logo">
+    </td>
+    <td valign="middle" style="border: none !important;">
+      <h2 style="border-bottom: none; margin: 0; padding: 0;">KORNAI | AI Solution Architect</h2>
+    </td>
+  </tr>
+</table>
 
-<br>
 <a href="#english-version">🇺🇸 English Version</a> | <a href="#russian-version">🇷🇺 Русская версия</a>
 
 ---
