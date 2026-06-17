@@ -4,8 +4,6 @@
   <br>
   <font size="4" color="#9ca3af"><i>Engineering the Future of Business Profit</i></font>
 </p>
-<br clear="left"/>
-
 ---
 <a href="#english-version">🇺🇸 English Version</a> | <a href="#russian-version">🇷🇺 Русская версия</a>
 <a name="english-version"></a>
