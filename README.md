@@ -1,6 +1,6 @@
 <p align="left">
   <img src="https://kornai.ru/logo.png" width="90" valign="top" align="left" style="margin-right: 20px;" />
-  <b><font size="12">KORNAI</font></b>
+  <b><font size="32">KORNAI</font></b>
   <br>
   <font size="4"><i>AI Solution Architect & Technical Product Lead</i></font>
   <br>
