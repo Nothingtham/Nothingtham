@@ -2,7 +2,7 @@
   <img src="https://kornai.ru/logo.png" width="90" valign="top" align="left" style="margin-right: 20px;" />
   <b><font size="7">KORNAI</font></b>
   <br>
-  <font size="1"><i>AI Solution Architect & Technical Product Lead</i></font>
+  <font size="5"><i>AI Solution Architect & Technical Product Lead</i></font>
   <br>
   <font size="3" color="#9ca3af">Engineering the Future of Business Profit</font>
 </p>
