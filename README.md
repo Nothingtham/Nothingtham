@@ -1,11 +1,9 @@
 <p align="left">
   <img src="https://kornai.ru/logo.png" width="45" valign="top" align="left" style="margin-right: 20px;" />
-  <b><font size="6">KORNAI | AI Solution Architect</font></b><br>
+  <b><font size="6">KORNAI</font></b><br>
   <font size="4"><b>AI Solution Architect</b></font><br>
 </p>
 <br clear="left"/>
-
----
 
 <a href="#english-version">🇺🇸 English Version</a> | <a href="#russian-version">🇷🇺 Русская версия</a>
 
